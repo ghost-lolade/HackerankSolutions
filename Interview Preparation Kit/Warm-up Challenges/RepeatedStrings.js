@@ -1,8 +1,8 @@
 // This function checks if the array
 
-String.prototype.countCharacter = function(char) {
-    return [...this].filter(c => c === char).length;
-  }
+// String.prototype.countCharacter = function(char) {
+//     return [...this].filter(c => c === char).length;
+//   }
   
   // Complete the repeatedString function below.
   function repeatedString(s, n) {
