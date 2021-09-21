@@ -1,2 +1,2 @@
 # HackerankSolutions
-Hackerrank Solutions
+Hackerrank Solutions in different folders by myself
